@@ -1,0 +1,72 @@
+[
+    {
+        "id": "8",
+        "name": "STAR Plus HD",
+        "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/xxx.mpd",
+        "hex": "a9f4aca1f6aa5aeb91d2743ab2e8c558",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKn0rKH2qlrrkdJ0OrLoxVg4tIr4swY="
+    },
+    {
+        "id": "40",
+        "name": "&tv HD",
+        "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/xxx.mpd",
+        "hex": "b6c781245292535fb8d486e94621aeb4",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELbHgSRSklNfuNSG6UYhrrQ48NT6swY="
+    },
+    {
+        "id": "63",
+        "name": "Zee TV HD",
+        "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/xxx.mpd",
+        "hex": "243ec8d7fc6659a5915a6f3a171a182b",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECQ+yNf8ZlmlkVpvOhcaGCs4mND6swY="
+    },
+    {
+        "id": "245",
+        "name": "STAR GOLD HD",
+        "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/xxx.mpd",
+        "hex": "d73cce817ed05e3ca8521481809b0d4f",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENc8zoF+0F48qFIUgYCbDU84sIP4swY="
+    },
+    {
+        "id": "503",
+        "name": "Zee Cinema HD",
+        "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/xxx.mpd",
+        "hex": "9d0737e74433550d8bcbf665686009da",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJ0HN+dEM1UNi8v2ZWhgCdo4wMv6swY="
+    },
+    {
+        "id": "267",
+        "name": "&pictures HD",
+        "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/xxx.mpd",
+        "hex": "8bf2a2c0e27a52b6afaf50435f947bfe",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEIvyosDielK2r69QQ1+Ue/44iIj4swY="
+    },
+    {
+        "id": "24",
+        "name": "Star Sports 1 Hindi HD",
+        "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/xxx.mpd",
+        "hex": "39fe2ab2bf22576fa4564c4dff2f0f84",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDn+KrK/IldvpFZMTf8vD4Q4hIH4swY="
+    },
+    {
+        "id": "587",
+        "name": "Super Hungama",
+        "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/xxx.mpd",
+        "hex": "9c126540f97e56debc5cb773ac99e05a",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJwSZUD5flbevFy3c6yZ4Fo4tIr4swY="
+    },
+    {
+        "id": "605",
+        "name": "National Geographic HD",
+        "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/xxx.mpd",
+        "hex": "74fa305f45b25430a4392a1d29293c50",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHT6MF9FslQwpDkqHSkpPFA4tIr4swY="
+    },
+    {
+        "id": "616",
+        "name": "History TV18 HD",
+        "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/xxx.mpd",
+        "hex": "ab44681329f65c859a2b3f55b58dd7d2",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKtEaBMp9lyFmis/VbWN19I4iIj4swY="
+    }
+]
