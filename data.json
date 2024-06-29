@@ -15,9 +15,9 @@
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/xxx.mpd",
         "group": "Entertainment",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/%26tv.png",
-        "kid": "4fe54cc6b198519c92e1969c3a32b588",
-        "hex": "4fe54cc6b198519c92e1969c3a32b588:f7416591144d1e5f19458eec13545db7",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEE/lTMaxmFGckuGWnDoytYg4sKb9swY="
+        "kid": "31d101b6db0b5ff0aa97b728f43d57fe",
+        "hex": "31d101b6db0b5ff0aa97b728f43d57fe:242da6504e8f327f6f85764b1ede8a81",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDHRAbbbC1/wqpe3KPQ9V/44kM/+swY="
     },
     {
         "id": "63",
@@ -25,9 +25,9 @@
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/xxx.mpd",
         "group": "Entertainment",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/zee_tv.png",
-        "kid": "e50eee04c71757f2a2603201071bbb6b",
-        "hex": "e50eee04c71757f2a2603201071bbb6b:46b40a6cbd648cb4c574cc1912e6b8f4",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEOUO7gTHF1fyomAyAQcbu2s42KH9swY="
+        "kid": "6befa56f18f051dfa6eebaab471f5379",
+        "hex": "6befa56f18f051dfa6eebaab471f5379:976e19d5a9eb5577ca1cf8779e1b7a24",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEGvvpW8Y8FHfpu66q0cfU3k4uMr+swY="
     },
     {
         "id": "245",
@@ -45,9 +45,9 @@
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/xxx.mpd",
         "group": "Movies",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/zee_cinema.png",
-        "kid": "5b4b03fe0b4a5034b0761988fde512cc",
-        "hex": "5b4b03fe0b4a5034b0761988fde512cc:d3a51ffc07063ef81f8b88092002ed75",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFtLA/4LSlA0sHYZiP3lEsw4gJ39swY="
+        "kid": "ef4b17db3c0b5e0793b141b786b5252d",
+        "hex": "ef4b17db3c0b5e0793b141b786b5252d:cf34c796ead611011ff35986f38252d5",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEO9LF9s8C14Hk7FBt4a1JS044MX+swY="
     },
     {
         "id": "267",
