@@ -15,9 +15,9 @@
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/xxx.mpd",
         "group": "Entertainment",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/%26tv.png",
-        "kid": "83709f93d2ca5b86adeb46afc76c004d",
-        "hex": "83709f93d2ca5b86adeb46afc76c004d:a3e3c99de23dbda2e0f6dae1aa3a4fd1",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEINwn5PSyluGretGr8dsAE040KCBtAY="
+        "kid": "f87354fffcd85b20aa8cff710ee427ab",
+        "hex": "f87354fffcd85b20aa8cff710ee427ab:3aa0e4f7078011bb37dc4dde49ce5695",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEPhzVP/82Fsgqoz/cQ7kJ6s4sMmCtAY="
     },
     {
         "id": "63",
@@ -25,9 +25,9 @@
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/xxx.mpd",
         "group": "Entertainment",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/zee_tv.png",
-        "kid": "76bbab4d9ac75b338e611c2069b264c9",
-        "hex": "76bbab4d9ac75b338e611c2069b264c9:7230a4452881ec110eb547dd5c322fac",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHa7q02ax1szjmEcIGmyZMk4+JuBtAY="
+        "kid": "86a8d5ff68935a418440cbe5c0f6bb31",
+        "hex": "86a8d5ff68935a418440cbe5c0f6bb31:1354aceab3e4ebcb877004789f3d809d",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEIao1f9ok1pBhEDL5cD2uzE42MSCtAY="
     },
     {
         "id": "245",
@@ -35,9 +35,9 @@
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/xxx.mpd",
         "group": "Movies",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/star_gold.png",
-        "kid": "401a7300876b59f8aad40832352b3c6e",
-        "hex": "401a7300876b59f8aad40832352b3c6e:d03814d3690e03780e6c1afb4e3b89de",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEEAacwCHa1n4qtQIMjUrPG44sKb9swY="
+        "kid": "8ceb683ddb3e504a9b1fc25bf9c7d9f5",
+        "hex": "8ceb683ddb3e504a9b1fc25bf9c7d9f5:06694c6cd8c22b9fd630d45b695bced9",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEIzraD3bPlBKmx/CW/nH2fU4sMmCtAY="
     },
     {
         "id": "503",
@@ -45,9 +45,9 @@
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/xxx.mpd",
         "group": "Movies",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/zee_cinema.png",
-        "kid": "0627e213fb2951e6a2ac4f8d6753548c",
-        "hex": "0627e213fb2951e6a2ac4f8d6753548c:8f42c6f960fb1928710aad7a1f6554d6",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAYn4hP7KVHmoqxPjWdTVIw4oJeBtAY="
+        "kid": "e7cbf94309e65323b9e0f187ffccb720",
+        "hex": "e7cbf94309e65323b9e0f187ffccb720:cf0aab9f83be7f6fa1c00df9d5d7e88c",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEOfL+UMJ5lMjueDxh//MtyA4gMCCtAY="
     },
     {
         "id": "267",
@@ -65,9 +65,9 @@
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/xxx.mpd",
         "group": "Sports",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/ss1hdhindi.png",
-        "kid": "e9028c1ce4625f4e9182e669853d4141",
-        "hex": "e9028c1ce4625f4e9182e669853d4141:4f4c0cbc15f0d99f23326a0f03c4561d",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEOkCjBzkYl9OkYLmaYU9QUE4hKT9swY="
+        "kid": "805c71d117705bedbf109cbb89b2acc1",
+        "hex": "805c71d117705bedbf109cbb89b2acc1:88359930135ddb37be3a852201924623",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEIBccdEXcFvtvxCcu4myrME4hMeCtAY="
     },
     {
         "id": "587",
