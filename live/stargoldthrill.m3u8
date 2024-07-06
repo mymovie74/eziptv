@@ -5,10 +5,5 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-PROGRAM-DATE-TIME:2023-06-07T03:56:28Z
 #EXTINF:7.920,
-http://tv.cloudcdn.me/live.ts?channelId=128485&uid=7339&deviceMac=00:1A:79:B1:85:69
-#EXTINF:8.000,
-http://tv.cloudcdn.me/live.ts?channelId=128485&uid=7339&deviceMac=00:1A:79:B1:85:69
-#EXTINF:8.000,
-http://tv.cloudcdn.me/live.ts?channelId=128485&uid=7339&deviceMac=00:1A:79:B1:85:69
-#EXTINF:8.000,
-http://tv.cloudcdn.me/live.ts?channelId=128485&uid=7339&deviceMac=00:1A:79:B1:85:69
+#http://tv.cloudcdn.me/live.ts?channelId=128485&uid=7339&deviceMac=00:1A:79:B1:85:69
+https://m3u8parser.eziptv.workers.dev?id=156005
