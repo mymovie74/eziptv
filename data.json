@@ -25,15 +25,15 @@
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/xxx.mpd",
         "group": "Entertainment",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/%26tv.png",
-        "kid": "aaf44a63d2575365876aa6d1b38adda3",
-        "hex": "aaf44a63d2575365876aa6d1b38adda3:1d3c43f69801287cc4b677eb0694549a",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKr0SmPSV1Nlh2qm0bOK3aM4sKe3tAY=",
+        "kid": "272c0b3bcb0f5232a073f98557c1cb45",
+        "hex": "272c0b3bcb0f5232a073f98557c1cb45:068489a9297f8a30ee5834dc6e8cf417",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECcsCzvLD1IyoHP5hVfBy0U4kNC4tAY=",
         "base64": {
             "keys": [
                 {
                     "kty": "oct",
-                    "k": "HTxD9pgBKHzEtnfrBpRUmg",
-                    "kid": "qvRKY9JXU2WHaqbRs4rdow"
+                    "k": "BoSJqSl/ijDuWDTcboz0Fw",
+                    "kid": "JywLO8sPUjKgc/mFV8HLRQ"
                 }
             ],
             "type": "temporary"
