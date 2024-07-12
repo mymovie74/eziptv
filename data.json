@@ -45,15 +45,15 @@
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/xxx.mpd",
         "group": "Entertainment",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/zee_tv.png",
-        "kid": "9a7f3d5fa3ce568fb5e04f4277200981",
-        "hex": "9a7f3d5fa3ce568fb5e04f4277200981:3fae67076624354c059449ad184c02b3",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJp/PV+jzlaPteBPQncgCYE42OjBtAY=",
+        "kid": "6d3d0d38cb4b5597b9cc1e654209eaa3",
+        "hex": "6d3d0d38cb4b5597b9cc1e654209eaa3:8f023cca3ee80195968f12a3f1b2a5d9",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEG09DTjLS1WXucweZUIJ6qM4uJHDtAY=",
         "base64": {
             "keys": [
                 {
                     "kty": "oct",
-                    "k": "P65nB2YkNUwFlEmtGEwCsw",
-                    "kid": "mn89X6POVo+14E9CdyAJgQ"
+                    "k": "jwI8yj7oAZWWjxKj8bKl2Q",
+                    "kid": "bT0NOMtLVZe5zB5lQgnqow"
                 }
             ],
             "type": "temporary"
@@ -65,15 +65,15 @@
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/xxx.mpd",
         "group": "Movies",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/zee_cinema.png",
-        "kid": "a34d1fda48e0529898bf5db9eb06ab1d",
-        "hex": "a34d1fda48e0529898bf5db9eb06ab1d:222dd0da5ceb124a45fc20042e14dc1e",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKNNH9pI4FKYmL9duesGqx04gOTBtAY=",
+        "kid": "fc37a3917ba559c0baabe8423f0f1ba5",
+        "hex": "fc37a3917ba559c0baabe8423f0f1ba5:b8e401b2a8e8a422082d26fdac738d6c",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEPw3o5F7pVnAuqvoQj8PG6U44IzDtAY=",
         "base64": {
             "keys": [
                 {
                     "kty": "oct",
-                    "k": "Ii3Q2lzrEkpF/CAELhTcHg",
-                    "kid": "o00f2kjgUpiYv1256warHQ"
+                    "k": "uOQBsqjopCIILSb9rHONbA",
+                    "kid": "/DejkXulWcC6q+hCPw8bpQ"
                 }
             ],
             "type": "temporary"
