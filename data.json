@@ -60,6 +60,26 @@
         }
     },
     {
+        "id": "245",
+        "name": "STAR GOLD HD",
+        "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/xxx.mpd",
+        "group": "Movies",
+        "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/star_gold.png",
+        "kid": "5865b90c55ce5ec0982dbfbfe555b3fc",
+        "hex": "5865b90c55ce5ec0982dbfbfe555b3fc:7e1bc0296dd4248c28972a08ccfeffcf",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFhluQxVzl7AmC2/v+VVs/w4sNbRtAY=",
+        "base64": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "fhvAKW3UJIwolyoIzP7/zw",
+                    "kid": "WGW5DFXOXsCYLb+/5VWz/A"
+                }
+            ],
+            "type": "temporary"
+        }
+    },
+    {
         "id": "503",
         "name": "Zee Cinema HD",
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/xxx.mpd",
