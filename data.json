@@ -5,15 +5,15 @@
         "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/xxx.mpd",
         "group": "Entertainment",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/star_plus.png",
-        "kid": "8f558f27789258ab830004a9df258f26",
-        "hex": "8f558f27789258ab830004a9df258f26:7f04992143440108277d8167d3e07c2e",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEI9Vjyd4klirgwAEqd8ljyY4tN3RtAY=",
+        "kid": "59e1f7fbfb26574a9352e30f75853a57",
+        "hex": "59e1f7fbfb26574a9352e30f75853a57:67c62319529ebcba8af4684fb527e630",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFnh9/v7JldKk1LjD3WFOlc4tIDXtAY=",
         "base64": {
             "keys": [
                 {
                     "kty": "oct",
-                    "k": "fwSZIUNEAQgnfYFn0+B8Lg",
-                    "kid": "j1WPJ3iSWKuDAASp3yWPJg"
+                    "k": "Z8YjGVKevLqK9GhPtSfmMA",
+                    "kid": "WeH3+/smV0qTUuMPdYU6Vw"
                 }
             ],
             "type": "temporary"
@@ -25,15 +25,15 @@
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/xxx.mpd",
         "group": "Entertainment",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/%26tv.png",
-        "kid": "f5d69f93be9d5e51a10e981e793a6a3f",
-        "hex": "f5d69f93be9d5e51a10e981e793a6a3f:c7d55e87988d35aca3c39d2c9fb6c13c",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEPXWn5O+nV5RoQ6YHnk6aj840NDVtAY=",
+        "kid": "ac9698eeca2851de8ebf385fd27ba715",
+        "hex": "ac9698eeca2851de8ebf385fd27ba715:9ace4f3b2a603f1dbe1e20cdd6c56483",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKyWmO7KKFHejr84X9J7pxU4sPnWtAY=",
         "base64": {
             "keys": [
                 {
                     "kty": "oct",
-                    "k": "x9Veh5iNNayjw50sn7bBPA",
-                    "kid": "9dafk76dXlGhDpgeeTpqPw"
+                    "k": "ms5POypgPx2+HiDN1sVkgw",
+                    "kid": "rJaY7sooUd6Ovzhf0nunFQ"
                 }
             ],
             "type": "temporary"
@@ -45,15 +45,15 @@
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/xxx.mpd",
         "group": "Entertainment",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/zee_tv.png",
-        "kid": "310cecff8be45809bab9a5256d9c7d0e",
-        "hex": "310cecff8be45809bab9a5256d9c7d0e:39298d0d47d8d2bc65623d71b40abefc",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDEM7P+L5FgJurmlJW2cfQ44+MvVtAY=",
+        "kid": "5bf9498138b35534915b8e9c22fb9726",
+        "hex": "5bf9498138b35534915b8e9c22fb9726:0ea73be770041d89a977033a333cf239",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFv5SYE4s1U0kVuOnCL7lyY42PTWtAY=",
         "base64": {
             "keys": [
                 {
                     "kty": "oct",
-                    "k": "OSmNDUfY0rxlYj1xtAq+/A",
-                    "kid": "MQzs/4vkWAm6uaUlbZx9Dg"
+                    "k": "Dqc753AEHYmpdwM6MzzyOQ",
+                    "kid": "W/lJgTizVTSRW46cIvuXJg"
                 }
             ],
             "type": "temporary"
@@ -65,15 +65,15 @@
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/xxx.mpd",
         "group": "Movies",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/star_gold.png",
-        "kid": "5865b90c55ce5ec0982dbfbfe555b3fc",
-        "hex": "5865b90c55ce5ec0982dbfbfe555b3fc:7e1bc0296dd4248c28972a08ccfeffcf",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFhluQxVzl7AmC2/v+VVs/w4sNbRtAY=",
+        "kid": "92dd0be943f35eadb492e758c76c22f4",
+        "hex": "92dd0be943f35eadb492e758c76c22f4:532b36f2503c3bb48e47d9e8dddaa4d3",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJLdC+lD816ttJLnWMdsIvQ4sPnWtAY=",
         "base64": {
             "keys": [
                 {
                     "kty": "oct",
-                    "k": "fhvAKW3UJIwolyoIzP7/zw",
-                    "kid": "WGW5DFXOXsCYLb+/5VWz/A"
+                    "k": "Uys28lA8O7SOR9no3dqk0w",
+                    "kid": "kt0L6UPzXq20kudYx2wi9A"
                 }
             ],
             "type": "temporary"
@@ -105,15 +105,15 @@
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/xxx.mpd",
         "group": "Movies",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/%26pictures.png",
-        "kid": "f080484b9f135718909ea3ca585e676f",
-        "hex": "f080484b9f135718909ea3ca585e676f:9218589cf0e666a446c26602abe7d788",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEPCASEufE1cYkJ6jylheZ284iNvRtAY=",
+        "kid": "759887655e2951ddad696bc0fc237283",
+        "hex": "759887655e2951ddad696bc0fc237283:2826bffe39fae0fe71966a15dc052441",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHWYh2VeKVHdrWlrwPwjcoM4iP7WtAY=",
         "base64": {
             "keys": [
                 {
                     "kty": "oct",
-                    "k": "khhYnPDmZqRGwmYCq+fXiA",
-                    "kid": "8IBIS58TVxiQnqPKWF5nbw"
+                    "k": "KCa//jn64P5xlmoV3AUkQQ",
+                    "kid": "dZiHZV4pUd2taWvA/CNygw"
                 }
             ],
             "type": "temporary"
@@ -125,15 +125,15 @@
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/xxx.mpd",
         "group": "Sports",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/ss1hdhindi.png",
-        "kid": "bbbb0c607f2c5e868c6789c03df0c74a",
-        "hex": "bbbb0c607f2c5e868c6789c03df0c74a:d50d15ace5c983df0c5ebda6ece9b9b5",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELu7DGB/LF6GjGeJwD3wx0o4hNTRtAY=",
+        "kid": "9a02d45d5b305418b80240809aa251b7",
+        "hex": "9a02d45d5b305418b80240809aa251b7:f6281e244e14f6a4323fc2328f739843",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJoC1F1bMFQYuAJAgJqiUbc4hPfWtAY=",
         "base64": {
             "keys": [
                 {
                     "kty": "oct",
-                    "k": "1Q0VrOXJg98MXr2m7Om5tQ",
-                    "kid": "u7sMYH8sXoaMZ4nAPfDHSg"
+                    "k": "9igeJE4U9qQyP8Iyj3OYQw",
+                    "kid": "mgLUXVswVBi4AkCAmqJRtw"
                 }
             ],
             "type": "temporary"
@@ -145,15 +145,15 @@
         "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/xxx.mpd",
         "group": "Kids",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/hungama.png",
-        "kid": "81e2a77200a15ec0974433b0b1a92123",
-        "hex": "81e2a77200a15ec0974433b0b1a92123:0b131b12967fe439055e239355449421",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEIHip3IAoV7Al0QzsLGpISM4tN3RtAY=",
+        "kid": "632646727bd7553b9866680d91578d8c",
+        "hex": "632646727bd7553b9866680d91578d8c:085878668933d32e94f2419de2c4b0f3",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEGMmRnJ711U7mGZoDZFXjYw4tIDXtAY=",
         "base64": {
             "keys": [
                 {
                     "kty": "oct",
-                    "k": "CxMbEpZ/5DkFXiOTVUSUIQ",
-                    "kid": "geKncgChXsCXRDOwsakhIw"
+                    "k": "CFh4Zokz0y6U8kGd4sSw8w",
+                    "kid": "YyZGcnvXVTuYZmgNkVeNjA"
                 }
             ],
             "type": "temporary"
@@ -165,15 +165,15 @@
         "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/xxx.mpd",
         "group": "Documentary",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/nat_geo.png",
-        "kid": "a20c0f9f7ad25808ab0d4c01c72fab3c",
-        "hex": "a20c0f9f7ad25808ab0d4c01c72fab3c:81fe933c99bb61adb4071c28fb5b1f8d",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKIMD5960lgIqw1MAccvqzw4tN3RtAY=",
+        "kid": "9b8c518fe9765a2a8490a0ecf5a5ba8f",
+        "hex": "9b8c518fe9765a2a8490a0ecf5a5ba8f:c139fcc0bb8c2bd92ab3703dcf42b261",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJuMUY/pdloqhJCg7PWluo84tIDXtAY=",
         "base64": {
             "keys": [
                 {
                     "kty": "oct",
-                    "k": "gf6TPJm7Ya20Bxwo+1sfjQ",
-                    "kid": "ogwPn3rSWAirDUwBxy+rPA"
+                    "k": "wTn8wLuMK9kqs3A9z0KyYQ",
+                    "kid": "m4xRj+l2WiqEkKDs9aW6jw"
                 }
             ],
             "type": "temporary"
@@ -185,15 +185,15 @@
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/xxx.mpd",
         "group": "Documentary",
         "logourl": "https://raw.githubusercontent.com/mymovie74/eziptv/main/logo/history_tv18.png",
-        "kid": "2728618ae1025553831385eef992c609",
-        "hex": "2728618ae1025553831385eef992c609:9706f275866ee22bd5d88cf9d99410e6",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECcoYYrhAlVTgxOF7vmSxgk4iNvRtAY=",
+        "kid": "e8e10549fde25ddaacabfcab7de12aae",
+        "hex": "e8e10549fde25ddaacabfcab7de12aae:6e63c4e9bb5472d51e818951e83fd22b",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEOjhBUn94l3arKv8q33hKq44iP7WtAY=",
         "base64": {
             "keys": [
                 {
                     "kty": "oct",
-                    "k": "lwbydYZu4ivV2Iz52ZQQ5g",
-                    "kid": "JyhhiuECVVODE4Xu+ZLGCQ"
+                    "k": "bmPE6btUctUegYlR6D/SKw",
+                    "kid": "6OEFSf3iXdqsq/yrfeEqrg"
                 }
             ],
             "type": "temporary"
