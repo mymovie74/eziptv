@@ -11,7 +11,8 @@
      maxSegmentDuration="PT8S"
      minBufferTime="PT30S"
      profiles="urn:mpeg:dash:profile:isoff-live:2011">
-	 
+
+    <Period id="1" duration="PT52M">
     <BaseURL>https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/dash/</BaseURL>
     <AdaptationSet id="1" group="1" contentType="audio" segmentAlignment="true" audioSamplingRate="48000" mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
       <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
