@@ -76,8 +76,8 @@
         "name": "SET",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/eziptv.mpd",
-        "hex": "98a4ed7d6d355eeead85de13d52c7143:a6d6756c81055ad2268fc39b17b88747",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJik7X1tNV7urYXeE9UscUM46O6LtQY="
+        "hex": "59a82616c274505b8b119fe1c28bb04d:f6ebec775f6f3af95dfb9ce9cd0ae24e",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFmoJhbCdFBbixGf4cKLsE048PyLtQY="
     },
     {
         "id": "48",
@@ -92,32 +92,32 @@
         "name": "SONY SAB",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/eziptv.mpd",
-        "hex": "30d2d6b1b25f53eca9679351117f4383:be96687fae336ac68ada920bf7ce9006",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDDS1rGyX1PsqWeTURF/Q4M46O6LtQY="
+        "hex": "3b25746d0e6b5886831d31fe3e244b72:5db31e472a14defa239fe04e604992e5",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDsldG0Oa1iGgx0x/j4kS3I48PyLtQY="
     },
     {
         "id": "40",
         "name": "&tv HD",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/eziptv.mpd",
-        "hex": "a323a64bfdeb52ea9452918efb5040a9:a7e32419a2bed8ba69ea4399efb85eec",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKMjpkv961LqlFKRjvtQQKk4wPOLtQY="
+        "hex": "4054f34bd4775fcf91b0cccfad6481f4:adc6dd73cc36ba1b0f90e6ff8998d67c",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEEBU80vUd1/PkbDMz61kgfQ4yIGMtQY="
     },
     {
         "id": "578",
         "name": "&TV",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12129-j9p7kluo-v2/imageContent-12129-j9p7kluo-m3.png",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_196/output/eziptv.mpd",
-        "hex": "55639912dcef58799a0f468a645eb449:60dd3261c3e889bc48fe0c0e5ac97e8f",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFVjmRLc71h5mg9GimRetEk46O6LtQY="
+        "hex": "cdbe07d082d85da0aa2d527b3e013806:0b80eaed28461cd9cc14303996e2ef06",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEM2+B9CC2F2gqi1Sez4BOAY48PyLtQY="
     },
     {
         "id": "63",
         "name": "Zee TV HD",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/eziptv.mpd",
-        "hex": "6ddf754c71295d49b247bc8fdd133529:a8aa37c19a799a97b4cf8d6905a81c15",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEG3fdUxxKV1Jske8j90TNSk46O6LtQY="
+        "hex": "cc00bfc919d45cebb10c760f7928636a:322b2cfbd61faa84aca875eff9ba7446",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMwAv8kZ1FzrsQx2D3koY2o48PyLtQY="
     },
     {
         "id": "557",
@@ -140,8 +140,8 @@
         "name": "Colors HD",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/eziptv.mpd",
-        "hex": "30d8c05ef0215da3b806750547467ffb:c09230f2ed1c5a362e7c8eaccd214c02",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDDYwF7wIV2juAZ1BUdGf/s46O6LtQY="
+        "hex": "53adc5a291f559dd8c38a24d60ee8c13:76c76ba2a87e4158678c80a15b8df267",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFOtxaKR9VndjDiiTWDujBM48PyLtQY="
     },
     {
         "id": "543",
@@ -236,8 +236,8 @@
         "name": "Sony Pal",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_193/output/eziptv.mpd",
-        "hex": "a0cc78badb5a58c8bac77bb54ac08e41:e8fa5f8ef537cd62fd8188f9f396111b",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKDMeLrbWljIusd7tUrAjkE46O6LtQY="
+        "hex": "5db9ef1f94e751c3ae6162ad63a51426:0471c8c3916c926dc2df23c0946ecd80",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEF257x+U51HDrmFirWOlFCY48PyLtQY="
     },
     {
         "id": "54",
@@ -524,8 +524,8 @@
         "name": "Colors Cineplex",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-149-j5frd0jc-v2/imageContent-149-j5frd0jc-m2.png",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_384/output/eziptv.mpd",
-        "hex": "457c96334047589184a34a37d3e539e5:08850d0ff1215355a8748e50896c3f38",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEEV8ljNAR1iRhKNKN9PlOeU4wPOLtQY="
+        "hex": "9f47a9efa2a151598d7cd2af9d9122dd:b579a35808cc2778ea503a1f5425b32d",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJ9Hqe+ioVFZjXzSr52RIt04yIGMtQY="
     },
     {
         "id": "730",
@@ -660,24 +660,24 @@
         "name": "SONY PIX HD",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/eziptv.mpd",
-        "hex": "0bef3b212c9e575e961e8e59251d1e45:7beeb4e8db4b30568c1e6609b3f1a044",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAvvOyEsnldelh6OWSUdHkU4lPGLtQY="
+        "hex": "95ac5f0ea8075de9aab4d4bb98178b2f:314c2537aca1848d7d5917f9fa0d5a60",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJWsXw6oB13pqrTUu5gXiy84nP+LtQY="
     },
     {
         "id": "558",
         "name": "SONY PIX",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12080-j9obub60-v6/imageContent-12080-j9obub60-m6.png",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/eziptv.mpd",
-        "hex": "a7cb44b7d521508b8d1644a07d913d6e:bf3959708db6d649fb6fef32f9a8eaef",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKfLRLfVIVCLjRZEoH2RPW446O6LtQY="
+        "hex": "0a930fdb8c9f5921a2e7c086a3aa5232:47662dfed7b4debefd4b78a7e4cb2a33",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAqTD9uMn1khoufAhqOqUjI48PyLtQY="
     },
     {
         "id": "562",
         "name": "Movies Now HD",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/eziptv.mpd",
-        "hex": "9abe933cdddd53799dfac2712990329c:a1138a608e9351dfd05252442438ccb8",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJq+kzzd3VN5nfrCcSmQMpw4lPGLtQY="
+        "hex": "aa23020096d659e48ba29a5ee4884311:ca007a2d7cf74f21927a5b8f508bd9c9",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKojAgCW1lnki6KaXuSIQxE4nP+LtQY="
     },
     {
         "id": "210",
@@ -716,8 +716,8 @@
         "name": "Star Sports 1 HD",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",
         "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/eziptv.mpd",
-        "hex": "db1952c0fbb1529483aad1cc10ba00ea:ce9ac365bec42102dc83b7fa10121758",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENsZUsD7sVKUg6rRzBC6AOo46O6LtQY="
+        "hex": "345dbf5b2f1456729c1e23303a490935:15e61a7427373e4c9939a8ca82d14d52",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDRdv1svFFZynB4jMDpJCTU48PyLtQY="
     },
     {
         "id": "235",
@@ -732,8 +732,8 @@
         "name": "Star Sports 1 Hindi HD",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",
         "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/eziptv.mpd",
-        "hex": "f6797df3d51c5f7f8e0b29fb716fc1f3:092bddbc72e304cf91739021a6c883b0",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEPZ5ffPVHF9/jgsp+3FvwfM4lPGLtQY="
+        "hex": "0bf545e57298598fb21027a7bd7e1784:b81e97441286b9fc6e1926a762f13e95",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAv1ReVymFmPshAnp71+F4Q4nP+LtQY="
     },
     {
         "id": "246",
@@ -780,8 +780,8 @@
         "name": "SONY SPORTS TEN 2",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/eziptv.mpd",
-        "hex": "62a6318c1eab59be95c22b76d08971b4:1b9db60a0a181b46fbbfa734557f5f65",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEGKmMYweq1m+lcIrdtCJcbQ46O6LtQY="
+        "hex": "068b6429e3335499bfe5bb447837e561:eb8ad93a31c3c83763e5930d19ba6387",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAaLZCnjM1SZv+W7RHg35WE48PyLtQY="
     },
     {
         "id": "464",
@@ -796,8 +796,8 @@
         "name": "SONY SPORTS TEN 3",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/eziptv.mpd",
-        "hex": "b5a2f36750b552c9a1cdee1273e1eb8f:f38435a93484458b0996cfaa5577a4de",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELWi82dQtVLJoc3uEnPh6484lPGLtQY="
+        "hex": "d5854245c65359298a495a67eba91d2c:f1f382f19f2ea5aea5229513fa11e795",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENWFQkXGU1kpiklaZ+upHSw4nP+LtQY="
     },
     {
         "id": "35",
@@ -884,24 +884,24 @@
         "name": "Aaj Tak HD",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/eziptv.mpd",
-        "hex": "80bd7c4c8745526698ddc29c30e0b095:a4e0f6b90678bfd347ea7e44f93fc873",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEIC9fEyHRVJmmN3CnDDgsJU4lPGLtQY="
+        "hex": "66f99a2463c950ee98c870a7f6180ca7:d7f6853f57c1eb6a8b3b2d4380ef6212",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEGb5miRjyVDumMhwp/YYDKc4nP+LtQY="
     },
     {
         "id": "153",
         "name": "Aaj Tak",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/eziptv.mpd",
-        "hex": "c68314347c0b5126a36f7ef2e3c38db9:7eae9a8d9333316df8f0287f1bf05bd4",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMaDFDR8C1Emo29+8uPDjbk4wPOLtQY="
+        "hex": "e342557b686959c796ad2b193c27755e:9bfe58417a3641dc13f4453913da849b",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEONCVXtoaVnHlq0rGTwndV44yIGMtQY="
     },
     {
         "id": "259",
         "name": "Zee News",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11110-j95ioyag-v1/imageContent-11110-j95ioyag-m1.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/eziptv.mpd",
-        "hex": "fd64214812265585b2db00278bb07d76:0a9aa2371473840d5439ecccb773cc24",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEP1kIUgSJlWFstsAJ4uwfXY4lPGLtQY="
+        "hex": "9bc1485359b45b38b886d9d34d8b4434:4b6935da2bc365f0ebfd760055896c43",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJvBSFNZtFs4uIbZ002LRDQ4nP+LtQY="
     },
     {
         "id": "872",
@@ -1204,8 +1204,8 @@
         "name": "CNBC Awaaz",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-846-j5m9p55k-v1/imageContent-846-j5m9p55k-m1.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_147/output/eziptv.mpd",
-        "hex": "29f7a8fefd4053c7858564f660704f81:43d2b40f664181be5dbe7b1847a7a510",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECn3qP79QFPHhYVk9mBwT4E4lPGLtQY="
+        "hex": "68ec951043355eb1b01499d7f359b965:cd1085b1b2a9380104f5fb5f1a54ee85",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEGjslRBDNV6xsBSZ1/NZuWU4nP+LtQY="
     },
     {
         "id": "213",
@@ -1236,8 +1236,8 @@
         "name": "Times Now World",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11853-j9l1tvhs-v4/imageContent-11853-j9l1tvhs-m5.png",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_779/output/eziptv.mpd",
-        "hex": "c57a721ab45957bd8d19e54bb0cab4b8:ef06d50ed6c432eba75c47c63a2cd03c",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMV6chq0WVe9jRnlS7DKtLg46O6LtQY="
+        "hex": "7c23939ddeff5c6ab0dc188ad0e86a50:df8be6f67904191c2ab7acf767aa768c",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHwjk53e/1xqsNwYitDoalA48PyLtQY="
     },
     {
         "id": "90",
@@ -1252,8 +1252,8 @@
         "name": "INDIA TODAY",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_221/output/eziptv.mpd",
-        "hex": "25aa864347235ca485e67d95563f5397:32cef6181d606a91bebca839b2c18650",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECWqhkNHI1ykheZ9lVY/U5c4wPOLtQY="
+        "hex": "83fb1db5f34c53b6810d99e0243f1de5:c3700f0d7b12d134d5dd2c912052d9cd",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEIP7HbXzTFO2gQ2Z4CQ/HeU4yIGMtQY="
     },
     {
         "id": "206",
@@ -1444,8 +1444,8 @@
         "name": "Disney",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/eziptv.mpd",
-        "hex": "ada4ac6e100855c18088e2441f116c8e:131187c12848e192403f88842002321b",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEK2krG4QCFXBgIjiRB8RbI44lPGLtQY="
+        "hex": "32aaa2b96cd55d9fad7b6deb9df7076c:e6ffd369e03082f0de3f5b2a98eb2a35",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDKqorls1V2frXtt6533B2w4nP+LtQY="
     },
     {
         "id": "71",
@@ -1460,8 +1460,8 @@
         "name": "Nick HD+",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_663/output/eziptv.mpd",
-        "hex": "719f52f4ab0b519795faf7b2da44ff05:2d03a1591967a39b889dc1f6285ce2cf",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHGfUvSrC1GXlfr3stpE/wU4lPGLtQY="
+        "hex": "3470821ad1825606b1ac159590a5f8ae:d6191fb64735d658da8b195ed6d1fcb2",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDRwghrRglYGsawVlZCl+K44nP+LtQY="
     },
     {
         "id": "138",
@@ -1500,8 +1500,8 @@
         "name": "Cartoon Network",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/eziptv.mpd",
-        "hex": "8734f4bfef405a06bc407d266466e34f:5d9d38fa2de4c1c2b5dacea0645f1c3c",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEIc09L/vQFoGvEB9JmRm40846O6LtQY="
+        "hex": "e7bfe6bda32f5419a3b86dce496d3d61:873ee865390eedd862e9717545421675",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEOe/5r2jL1QZo7htzkltPWE48PyLtQY="
     },
     {
         "id": "239",
@@ -1524,16 +1524,16 @@
         "name": "Sonic Nickelodeon",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/eziptv.mpd",
-        "hex": "6ce63f36587a51f89e5ad8286ebe140c:5fbf2cdae38c16dcf3e50e6bc57b723f",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEGzmPzZYelH4nlrYKG6+FAw4lPGLtQY="
+        "hex": "ecfc7cfe90005768a724fb1b3aefaa06:ee77d90724913963555c5121cbb5d9c9",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEOz8fP6QAFdopyT7GzrvqgY4nP+LtQY="
     },
     {
         "id": "45",
         "name": "SONY YAY!",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/eziptv.mpd",
-        "hex": "574434aff9ba5424a8e02ccc671875d6:3fde6b4305d3bf2243396495a59029ef",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFdENK/5ulQkqOAszGcYddY4lPGLtQY="
+        "hex": "9a2a5bb20b99518db86119acd0277b7d:825641453b01cf8b0cd2552096fae6bb",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJoqW7ILmVGNuGEZrNAne304nP+LtQY="
     },
     {
         "id": "994",
@@ -1644,8 +1644,8 @@
         "name": "Discovery Channel",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/eziptv.mpd",
-        "hex": "ce17e0dd9abf5d4a8cb3aede75fa437c:e5b7ae34892a1d762086b49793bff9ff",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEM4X4N2av11KjLOu3nX6Q3w46O6LtQY="
+        "hex": "a0b02f5f866852dead056ef6713601f5:357883656e7497a4dbfcbf11ded11c03",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKCwL1+GaFLerQVu9nE2AfU48PyLtQY="
     },
     {
         "id": "287",
@@ -1660,16 +1660,16 @@
         "name": "Animal Planet",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-432-j5jsx754-v4/imageContent-432-j5jsx754-m4.png",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/eziptv.mpd",
-        "hex": "7dbc8b52f8965d8d95bc2b34b8f371c4:66479f3abf945f0cbc3adb12a604426e",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEH28i1L4ll2NlbwrNLjzccQ46O6LtQY="
+        "hex": "f87d2b2d7fa35f94920743de8e9d2eb7:ea8a66ec93c59cbe7ea58ec9b692ff86",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEPh9Ky1/o1+UkgdD3o6dLrc48PyLtQY="
     },
     {
         "id": "113",
         "name": "Discovery Science",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/eziptv.mpd",
-        "hex": "28031caf967f58f886f6a951ae4fea9d:b12c0a1ff1f60be65ae797af82d6589e",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECgDHK+Wf1j4hvapUa5P6p04lPGLtQY="
+        "hex": "18f46b8f01c35867b1894eebff4e555c:edbcc6872f16c261b47687aa58c08f50",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEBj0a48Bw1hnsYlO6/9OVVw4nP+LtQY="
     },
     {
         "id": "616",
@@ -1740,24 +1740,24 @@
         "name": "TLC HD",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_780/output/eziptv.mpd",
-        "hex": "59bc65dde66c5bbbb5c1338a785c8764:9389da5a40040f963344c0e056242912",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFm8Zd3mbFu7tcEzinhch2Q4lPGLtQY="
+        "hex": "bd473fe629725574a779d0da7dd1bd0d:bcc4e03ead9cc156c7647850c1551626",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEL1HP+YpclV0p3nQ2n3RvQ04nP+LtQY="
     },
     {
         "id": "135",
         "name": "TLC",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-453-j5jtup5s-v2/imageContent-453-j5jtup5s-m2.png",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_127/output/eziptv.mpd",
-        "hex": "0bdc9ee92d2b51ef9b91291c3625727d:e3bf971fd7b150f0d5abffba2d7aae40",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAvcnuktK1Hvm5EpHDYlcn046O6LtQY="
+        "hex": "83e52c4fcd3251309336b8a65b1cd227:988b0fe53a477beb215d5d3110ca4e17",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEIPlLE/NMlEwkza4plsc0ic48PyLtQY="
     },
     {
         "id": "136",
         "name": "GOOD TiMES",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42020-jxb7qjw8-v1/imageContent-42020-jxb7qjw8-m1.png",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_111/output/eziptv.mpd",
-        "hex": "d47e20e3b59855c29b29d976b1ab9ddd:629eb083d7e37cb3673710797f3970ee",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENR+IOO1mFXCmynZdrGrnd04wPOLtQY="
+        "hex": "cc3366e12f985ec7a79d42ac20cd8abc:b1448fa815539d51973b3a29544ffae8",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMwzZuEvmF7Hp51CrCDNirw4yIGMtQY="
     },
     {
         "id": "228",
@@ -1780,8 +1780,8 @@
         "name": "Travelxp",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-157-j5frd4e8-v1/imageContent-157-j5frd4e8-m1.png",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_366/output/eziptv.mpd",
-        "hex": "f53b457f1d0b56eba13742b6d27c5de5:0582240309ceb38661891e36ad5c4269",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEPU7RX8dC1broTdCttJ8XeU46O6LtQY="
+        "hex": "b584ff95328d59d68eb3f132e901a7b5:5fd834ab358adbbe9e12ec34789d0723",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELWE/5UyjVnWjrPxMukBp7U48PyLtQY="
     },
     {
         "id": "117",
@@ -2076,8 +2076,8 @@
         "name": "Zee Biskope",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52853-k982u9ts-v1/imageContent-52853-k982u9ts-m1.png",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1111/output/eziptv.mpd",
-        "hex": "305d1cf6387e508d993903ecf5a861c0:5c00c47dc7154889d5854460850b1e3d",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDBdHPY4flCNmTkD7PWoYcA4wPOLtQY="
+        "hex": "f0ffcc21d65453998d099a3e54521bfd:1be4b64185104f3b6aa6320ff8f0ed08",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEPD/zCHWVFOZjQmaPlRSG/04yIGMtQY="
     },
     {
         "id": "830",
@@ -2500,8 +2500,8 @@
         "name": "Zee Marathi HD",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11930-j9l5hv1c-v1/imageContent-11930-j9l5hv1c-m1.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_836/output/eziptv.mpd",
-        "hex": "bc220d3532735720896acc0329f0ce15:e3f457ef296bbc7f6a2b9147ba59c99c",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELwiDTUyc1cgiWrMAynwzhU4lPGLtQY="
+        "hex": "adc73437864e5dcb8f6430d0b8281a8b:bcb1d37a63396dface119c637297be6b",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEK3HNDeGTl3Lj2Qw0LgoGos4nP+LtQY="
     },
     {
         "id": "251",
@@ -2860,16 +2860,16 @@
         "name": "Zee Telugu HD",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/eziptv.mpd",
-        "hex": "8a58006ad3d651eaa227b21ca32fa254:24fbfd72784c0e3ba68370af4ab1471a",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEIpYAGrT1lHqoieyHKMvolQ4lPGLtQY="
+        "hex": "81bce051a68d5a5f977199fbbf459ebc:c1298a1f611bd6e03f995f4f02c767ea",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEIG84FGmjVpfl3GZ+79Fnrw4nP+LtQY="
     },
     {
         "id": "250",
         "name": "Zee Telugu",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8845-j7ppmm28-v3/imageContent-8845-j7ppmm28-m7.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_415/output/eziptv.mpd",
-        "hex": "a0a970d4d7c759bb810538dae0b9b0c7:433aa978e21e908e151d81b2c7ba9cd5",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKCpcNTXx1m7gQU42uC5sMc4lPGLtQY="
+        "hex": "d184ca4ab8b357afb58a178ee2635609:2fcf5f548fb5c51be88cbb4efd27d3ee",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENGEykq4s1evtYoXjuJjVgk4nP+LtQY="
     },
     {
         "id": "355",
@@ -2900,8 +2900,8 @@
         "name": "ETV HD",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_537/output/eziptv.mpd",
-        "hex": "bf09db166eae5daca57da441cdfb871e:917d3c93819913b2d541e9233fec09d5",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEL8J2xZurl2spX2kQc37hx44lPGLtQY="
+        "hex": "7145cbd667885b918f5237552ca46e3f:9090fea8f51c0127bc70df88964029f7",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHFFy9ZniFuRj1I3VSykbj84nP+LtQY="
     },
     {
         "id": "145",
@@ -3004,8 +3004,8 @@
         "name": "Zee Cinemalu",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_416/output/eziptv.mpd",
-        "hex": "e2244728bb7153eb86f7bb1ac41567e9:e91f08047a85ebd9b3bcefca330f1e19",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEOIkRyi7cVPrhve7GsQVZ+k4lPGLtQY="
+        "hex": "03be697716335382bc53374030221184:c01d592fe10dc77a5c1d7a6cdec200c0",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAO+aXcWM1OCvFM3QDAiEYQ4nP+LtQY="
     },
     {
         "id": "128",
@@ -3268,8 +3268,8 @@
         "name": "Sun TV HD",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/eziptv.mpd",
-        "hex": "9b6089153de853e7be3ef118455df2ec:01a951ffd90b089d4f3081a72d22d415",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJtgiRU96FPnvj7xGEVd8uw4lPGLtQY="
+        "hex": "362d080c9f0951728221ddadfd6e3469:744f631899ebf91bcf95ec789d2a4f2c",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDYtCAyfCVFygiHdrf1uNGk4nP+LtQY="
     },
     {
         "id": "1260",
@@ -3284,8 +3284,8 @@
         "name": "Sun Life",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/eziptv.mpd",
-        "hex": "6a6c4f07f8d6581e8f774520e5bc99b6:201ac26065f6204f4912d71a374bce16",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEGpsTwf41lgej3dFIOW8mbY4lPGLtQY="
+        "hex": "db898f1d91ba554ebe16c8a29ffa58ab:3ef45ce2420b3e81dc0b664889b21319",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENuJjx2RulVOvhbIop/6WKs4nP+LtQY="
     },
     {
         "id": "496",
@@ -3316,8 +3316,8 @@
         "name": "Zee Tamil",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9006-j7rlwsns-v2/imageContent-9006-j7rlwsns-m4.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/eziptv.mpd",
-        "hex": "92a1924e92cc59c98920ce9a4f38afd0:9ac2c90d0149701d396967cf1b797f5a",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJKhkk6SzFnJiSDOmk84r9A4lPGLtQY="
+        "hex": "c1e320b130685bad86909fd5eeffad2a:87d38ee9a025344a7701406d771d805e",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMHjILEwaFuthpCf1e7/rSo4nP+LtQY="
     },
     {
         "id": "674",
@@ -3332,8 +3332,8 @@
         "name": "Colors Tamil",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_665/output/eziptv.mpd",
-        "hex": "6d5b49d1f82a5cfc82414d00fa2ed487:c8815c74245c40a110442514ba2e6da2",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEG1bSdH4Klz8gkFNAPou1Ic4wPOLtQY="
+        "hex": "aeca2342f4b65a02ac5d0ae1de0e2a20:dab82e64560a4b9aceb02d487a8e2d98",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEK7KI0L0tloCrF0K4d4OKiA4yIGMtQY="
     },
     {
         "id": "708",
@@ -3484,8 +3484,8 @@
         "name": "Travelxp Tamil",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11724-j9kvwnkg-v1/imageContent-11724-j9kvwnkg-m1.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_789/output/eziptv.mpd",
-        "hex": "ef35b5a1351f501db2a23e032d42dcb0:38626380fc0b12ae9bae0c7f2b8f2b74",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEO81taE1H1AdsqI+Ay1C3LA4lPGLtQY="
+        "hex": "a4ee03de4c6158ff8555618adc1a8595:f1c0aea7136c618e756f3a67b2ec5481",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKTuA95MYVj/hVVhitwahZU4nP+LtQY="
     },
     {
         "id": "220",
@@ -3724,8 +3724,8 @@
         "name": "Colors SUPER",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18308-jcqnzl68-v1/imageContent-18308-jcqnzl68-m1.PNG",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_492/output/eziptv.mpd",
-        "hex": "2f3f77ba91d553b78b0ecf84584fe98e:6068e0f11bb26ce6331440fd9a2d9b2e",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEC8/d7qR1VO3iw7PhFhP6Y44wPOLtQY="
+        "hex": "4d4ecc8a718551ae97b58e434f7a003c:16bd250580636900f1bee390bb5c0f65",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEE1OzIpxhVGul7WOQ096ADw4yIGMtQY="
     },
     {
         "id": "566",
@@ -3764,8 +3764,8 @@
         "name": "Colors Kannada Cinema",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31454-jmirfosw-v2/imageContent-31454-jmirfosw-m2.png",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_900/output/eziptv.mpd",
-        "hex": "59b710902ccb566ebe295fde2e6c24ff:3e96b45228529c355ce829b45a20a948",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFm3EJAsy1Zuvilf3i5sJP84wPOLtQY="
+        "hex": "e7f0207158f6525e99ada89b5c878b9b:06e215d5a70bb7813e34c8540129ed70",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEOfwIHFY9lJema2om1yHi5s4yIGMtQY="
     },
     {
         "id": "1181",
@@ -3780,8 +3780,8 @@
         "name": "Zee Picchar",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52310-k7bd8ixk-v2/imageContent-52310-k7bd8ixk-m4.png",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1000/output/eziptv.mpd",
-        "hex": "ee8467481d795b4db69fcd115a21c89e:24e6ad0cf8d1942d6f51394defcf124f",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEO6EZ0gdeVtNtp/NEVohyJ44wPOLtQY="
+        "hex": "94ad390114bb51aba521daed7c720fe7:34ee899b6bed01410d1772577b0cce76",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJStOQEUu1GrpSHa7XxyD+c4yIGMtQY="
     },
     {
         "id": "661",
@@ -3972,8 +3972,8 @@
         "name": "Sandesh News",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12167-j9phnio0-v2/imageContent-12167-j9phnio0-m2.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_712/output/eziptv.mpd",
-        "hex": "21ac09f6806b55d39f2741c0d0626b60:202893accc25645a526353e84c4158ca",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECGsCfaAa1XTnydBwNBia2A4lPGLtQY="
+        "hex": "041d516a66c85f7299c9243ab5b54792:c1dd1c147b221e46dfd958ada655292b",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAQdUWpmyF9ymckkOrW1R5I4nP+LtQY="
     },
     {
         "id": "303",
@@ -4172,16 +4172,16 @@
         "name": "Asianet Plus",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/eziptv.mpd",
-        "hex": "c003ad6c59155965a256edfdf80aa798:f1107c4fa068afac2a113a6a3ef1cf7c",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMADrWxZFVllolbt/fgKp5g4lPGLtQY="
+        "hex": "a6f0eeeb801854299152bf025482f0c4:4c1a77f0fa40041e534ac0f7bb19fe39",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKbw7uuAGFQpkVK/AlSC8MQ4nP+LtQY="
     },
     {
         "id": "694",
         "name": "Zee Keralam HD",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35312-jqy146c8-v3/imageContent-35312-jqy146c8-m8.png",
         "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/eziptv.mpd",
-        "hex": "d29d50c7c842564c92e612cb71bf89a1:81fe4a2f7d382b2515ede30d60dad31e",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENKdUMfIQlZMkuYSy3G/iaE4lPGLtQY="
+        "hex": "f0aa6e54ab105a62b30a503d7092b1e3:05fc92747adbeb287df138a5c90ea923",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEPCqblSrEFpiswpQPXCSseM4nP+LtQY="
     },
     {
         "id": "684",
