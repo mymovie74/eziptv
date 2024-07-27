@@ -10,15 +10,15 @@
         "id": "40",
         "name": "&tv HD",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/eziptv.mpd",
-        "hex": "bf7c0f4f54a35d32991826027653e991:c59b233cc22c73cd3edc96e24aaa0c31",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEL98D09Uo10ymRgmAnZT6ZE4iJWStQY="
+        "hex": "ada7d11d49655bc9bc698ef549502dbb:c1e99946628cc0ff239e3b6c6e60a736",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEK2n0R1JZVvJvGmO9UlQLbs4mLGStQY="
     },
     {
         "id": "63",
         "name": "Zee TV HD",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/eziptv.mpd",
-        "hex": "a7446b3befc65f71a482f40bbbc3787d:a91870c34dcdb0fd1b4f045f858b3ada",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKdEazvvxl9xpIL0C7vDeH04uJ6StQY="
+        "hex": "6923c65d0f3b599e9607820593fa904a:4dea90400317d7b44c671026e54ca543",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEGkjxl0PO1melgeCBZP6kEo4wKyStQY="
     },
     {
         "id": "245",
@@ -45,8 +45,8 @@
         "id": "24",
         "name": "Star Sports 1 Hindi HD",
         "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/eziptv.mpd",
-        "hex": "cfa281b9fdda5f84a880ccca96b56b53:afe435aa4ef9b55646705fed23f75a35",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEM+igbn92l+EqIDMypa1a1M45KCStQY="
+        "hex": "143b8fd22a1e5678a2142fb533bb33cd:1a569b122938aecb1bbfcc34daa945f1",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEBQ7j9IqHlZ4ohQvtTO7M8047K6StQY="
     },
     {
         "id": "587",
