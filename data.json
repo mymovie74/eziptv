@@ -10,15 +10,15 @@
         "id": "40",
         "name": "&tv HD",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/eziptv.mpd",
-        "hex": "c67cb0088d7e58e58c67394fc2948693:8a92aa50cf9972eb5a1112c5331442f9",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMZ8sAiNfljljGc5T8KUhpM4gIeStQY="
+        "hex": "bf7c0f4f54a35d32991826027653e991:c59b233cc22c73cd3edc96e24aaa0c31",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEL98D09Uo10ymRgmAnZT6ZE4iJWStQY="
     },
     {
         "id": "63",
         "name": "Zee TV HD",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/eziptv.mpd",
-        "hex": "cae714d0d10b57a78cc8acc11db57ec7:ae0b05c855ef4576fc1a2a3929effbd8",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMrnFNDRC1enjMiswR21fsc4sJCStQY="
+        "hex": "a7446b3befc65f71a482f40bbbc3787d:a91870c34dcdb0fd1b4f045f858b3ada",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKdEazvvxl9xpIL0C7vDeH04uJ6StQY="
     },
     {
         "id": "245",
@@ -31,8 +31,8 @@
         "id": "503",
         "name": "Zee Cinema HD",
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/eziptv.mpd",
-        "hex": "066785efa11c535283623dc9fbd0ca4f:04f95ba3e90d834994e4d5bfdc6b3882",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAZnhe+hHFNSg2I9yfvQyk84gPGQtQY="
+        "hex": "f8676e419ff050ebb2d3f4c67a934f66:d5b2dd80f9060aa4cdf46005efbf753c",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEPhnbkGf8FDrstP0xnqTT2Y44JmStQY="
     },
     {
         "id": "267",
@@ -45,8 +45,8 @@
         "id": "24",
         "name": "Star Sports 1 Hindi HD",
         "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/eziptv.mpd",
-        "hex": "815c830a6bab5bb3933bf2067cd319c3:5a2a823a5a27137ce7fa8f1029c54af6",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEIFcgwprq1uzkzvyBnzTGcM43JKStQY="
+        "hex": "cfa281b9fdda5f84a880ccca96b56b53:afe435aa4ef9b55646705fed23f75a35",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEM+igbn92l+EqIDMypa1a1M45KCStQY="
     },
     {
         "id": "587",
