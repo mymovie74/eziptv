@@ -10,15 +10,15 @@
         "id": "40",
         "name": "&tv HD",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/eziptv.mpd",
-        "hex": "ae3d6372b5c258d6a2729928689e4958:0f618168d5964f4f292bf0a7b7e9e653",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEK49Y3K1wljWonKZKGieSVg4+N2atQY="
+        "hex": "b339075e92cf50fa9c61ffb5a66204ac:3b2cc412b0bca57e4277d993754063d9",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELM5B16Sz1D6nGH/taZiBKw4yImatQY="
     },
     {
         "id": "63",
         "name": "Zee TV HD",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/eziptv.mpd",
-        "hex": "042fdd4c122a5f6a9adc20c90f1968d8:9ec86d719f08244921014b470f7b04a8",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAQv3UwSKl9qmtwgyQ8ZaNg4qOeatQY="
+        "hex": "225ca24adf315470b7bf15bef1344e2a:f3c425f6f380ab6ad8b93bbc59de1130",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECJcokrfMVRwt78VvvE0Tio48ISatQY="
     },
     {
         "id": "245",
@@ -38,15 +38,15 @@
         "id": "267",
         "name": "&pictures HD",
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/eziptv.mpd",
-        "hex": "5ff398ba04555dcaa3f05d7836bf98d9:fb8754737d8d932bb5966208cd283e04",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEF/zmLoEVV3Ko/BdeDa/mNk4iKKWtQY="
+        "hex": "",
+        "pssh": "None"
     },
     {
         "id": "24",
         "name": "Star Sports 1 Hindi HD",
         "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/eziptv.mpd",
-        "hex": "7cf087443737587d9762a02278ac2abd:4e80023f8e115bc0976a08cf7e3664c6",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHzwh0Q3N1h9l2KgInisKr041OmatQY="
+        "hex": "ed9d56ac0e8f5a7b8a67f8f2410a8539:40cf552c5bfa42772f2ca2a424511fdc",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEO2dVqwOj1p7imf48kEKhTk4nIeatQY="
     },
     {
         "id": "587",
