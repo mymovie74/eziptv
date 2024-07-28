@@ -10,15 +10,15 @@
         "id": "40",
         "name": "&tv HD",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/eziptv.mpd",
-        "hex": "b339075e92cf50fa9c61ffb5a66204ac:3b2cc412b0bca57e4277d993754063d9",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELM5B16Sz1D6nGH/taZiBKw4yImatQY="
+        "hex": "c597e068ba0b5b0681a860257c0ed1c4:d8c59d83a451c1028db55b414a2a654e",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMWX4Gi6C1sGgahgJXwO0cQ40JeatQY="
     },
     {
         "id": "63",
         "name": "Zee TV HD",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/eziptv.mpd",
-        "hex": "21ecc14163725f55a7a4a7a11adeabf9:38c39f3ddfa349bb579f9d32c1214c71",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECHswUFjcl9Vp6SnoRreq/k4+JKatQY="
+        "hex": "455f272204be55539ef44687f225ece4:8d30f9d8dce7942b82fd0ee573a6ecb0",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEEVfJyIEvlVTnvRGh/Il7OQ4gKGatQY="
     },
     {
         "id": "245",
