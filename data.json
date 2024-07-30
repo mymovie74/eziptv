@@ -10,22 +10,22 @@
         "id": "40",
         "name": "&tv HD",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/eziptv.mpd",
-        "hex": "588f34b69b8653f89f9a9fb80da43d07:b5749b9f32aa0059492e91a22bce6581",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFiPNLabhlP4n5qfuA2kPQc4yO6itQY="
+        "hex": "3326aac68e1157e881645d54b2980288:9a8518789dcc98c5b1bb43c2126ed9b6",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDMmqsaOEVfogWRdVLKYAog40PyitQY="
     },
     {
         "id": "63",
         "name": "Zee TV HD",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/eziptv.mpd",
-        "hex": "bd0fa449ded550d9ac9565752d7bd471:a428b8a57193ad729c2d9d2145da985b",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEL0PpEne1VDZrJVldS171HE48OmitQY="
+        "hex": "3c8b16ad09b7595dba1f1a24c32d2ca9:6b4225945029f1d310f88da1ebfe16a0",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDyLFq0Jt1lduh8aJMMtLKk4+PeitQY="
     },
     {
         "id": "245",
         "name": "STAR GOLD HD",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/eziptv.mpd",
-        "hex": "08c485cc44ec5ea697d167d5a0120826:03b2d056d540f018143c7867585d6732",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAjEhcxE7F6ml9Fn1aASCCY4sMSitQY="
+        "hex": "113a972993a552399169e4a49bfffc15:5821dcbdc886f373851afca9e9719be9",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEBE6lymTpVI5kWnkpJv//BU40PyitQY="
     },
     {
         "id": "503",
@@ -45,8 +45,8 @@
         "id": "24",
         "name": "Star Sports 1 Hindi HD",
         "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/eziptv.mpd",
-        "hex": "9b4df9c0bfed55e9b143e2be2173e292:a0deb9d459e402e6adc5e6bf003d8d1c",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJtN+cC/7VXpsUPiviFz4pI4nOyitQY="
+        "hex": "be503633c7f850b5a6f6fbef9aa51ba3:337477b1a8ebf27837692cb33a5c824d",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEL5QNjPH+FC1pvb775qlG6M4pPqitQY="
     },
     {
         "id": "587",
