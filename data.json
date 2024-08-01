@@ -3,8 +3,8 @@
         "id": "8",
         "name": "STAR Plus HD",
         "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/eziptv.mpd",
-        "hex": "de67c429dfb15da29744550e472884f1:830c772ae34cff1a2f9247e14b36ff07",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEN5nxCnfsV2il0RVDkcohPE4lNmstQY="
+        "hex": "b271efdfb214594190d62b5473112dc3:49e7af3efeae04be608ab155666524ba",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELJx79+yFFlBkNYrVHMRLcM4nOestQY="
     },
     {
         "id": "40",
@@ -17,8 +17,8 @@
         "id": "63",
         "name": "Zee TV HD",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/eziptv.mpd",
-        "hex": "018fd4e10490530280be037caa863464:0bc29a85c24cd3e1b08fe30e5e00b439",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAGP1OEEkFMCgL4DfKqGNGQ4wNustQY="
+        "hex": "4baa5fbc118e5fa7a3fe158c3c554745:c27b3bd3f9444c67577cd8a083d7b60f",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEEuqX7wRjl+no/4VjDxVR0U4yOmstQY="
     },
     {
         "id": "245",
@@ -38,8 +38,8 @@
         "id": "267",
         "name": "&pictures HD",
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/eziptv.mpd",
-        "hex": "75f10768e3ed5d0e8b3369940c5e0f2f:c2c7d263b3846de9305b2d4d7c7340db",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHXxB2jj7V0OizNplAxeDy846NastQY="
+        "hex": "4deb703cd9c05152a70f24936fb73c4c:68e9ced58c8b8ca9704e20305e4768b6",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEE3rcDzZwFFSpw8kk2+3PEw48OSstQY="
     },
     {
         "id": "24",
@@ -59,8 +59,8 @@
         "id": "605",
         "name": "National Geographic HD",
         "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/eziptv.mpd",
-        "hex": "e47cdad4731153e0b8a57be944847928:dd15996bfbbabed2a7131008fcba46dd",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEOR82tRzEVPguKV76USEeSg4lNmstQY="
+        "hex": "75836244486051b18f289d6b36652e44:31ccce77034489aba7ad1c577daffd00",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHWDYkRIYFGxjyidazZlLkQ4nOestQY="
     },
     {
         "id": "616",
