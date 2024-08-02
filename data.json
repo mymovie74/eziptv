@@ -3,22 +3,22 @@
         "id": "8",
         "name": "STAR Plus HD",
         "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/eziptv.mpd",
-        "hex": "4fb98a74314a55cf9a4593064fd82d6a:afa240999d7ccc0f0af6a98b07e6af2b",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEE+5inQxSlXPmkWTBk/YLWo49KSztQY="
+        "hex": "7b38ddef23d351479b3c5d2b73deba85:2fcefc7ef0fa02bd1a6fd92be156a86f",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHs43e8j01FHmzxdK3PeuoU4/LKztQY="
     },
     {
         "id": "40",
         "name": "&tv HD",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/eziptv.mpd",
-        "hex": "0946fc3256695a5bb5b49c9b720333d3:9fe78b7ae1503c8fcd332a527c1fa045",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAlG/DJWaVpbtbScm3IDM9M4+KuztQY="
+        "hex": "c08b56bf0da45083a538171148e40f54:b3e4b355dac866888e09f575e1a7a430",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMCLVr8NpFCDpTgXEUjkD1Q4gLqztQY="
     },
     {
         "id": "63",
         "name": "Zee TV HD",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/eziptv.mpd",
-        "hex": "45ebcc78c2085102982d7a50bcd894d7:aa35b21af08bbb0c9bed878da50c8e1f",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEEXrzHjCCFECmC16ULzYlNc4oKeztQY="
+        "hex": "a763b61a033056e28c34707702310bab:659a05d4fedc3beb32185e763e33144c",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKdjthoDMFbijDRwdwIxC6s4qLWztQY="
     },
     {
         "id": "245",
@@ -31,22 +31,22 @@
         "id": "503",
         "name": "Zee Cinema HD",
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/eziptv.mpd",
-        "hex": "f639d760cbe25a28b67b8f435035fe96:ae95c2a47c83991b6dc60f144c93a1f6",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEPY512DL4lootnuPQ1A1/pY4yKKztQY="
+        "hex": "05d2cac5cbb0528dbf0fae49e0f441f9:b42337cb8e36ee5c270cabb13023e706",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEAXSysXLsFKNvw+uSeD0Qfk40LCztQY="
     },
     {
         "id": "267",
         "name": "&pictures HD",
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/eziptv.mpd",
-        "hex": "70a0f69529395215bf012ce94b74475c:1a2377a256bcf5f26448c35034e9944d",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHCg9pUpOVIVvwEs6Ut0R1w4yKKztQY="
+        "hex": "75fa294d4ef054b0bcc8846c297ad358:026f83574257c5effae271c3d2d9a773",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHX6KU1O8FSwvMiEbCl601g40LCztQY="
     },
     {
         "id": "24",
         "name": "Star Sports 1 Hindi HD",
         "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/eziptv.mpd",
-        "hex": "1a21c1cd16595c92873594e8a1281c45:11b9fd47af4e5c38b4915190361e6dea",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEBohwc0WWVyShzWU6KEoHEU4zKmztQY="
+        "hex": "4bc3bb8f5fc353cca9b9be5ffe709b31:dcb8c92da322b257b05c9e6edf095bdd",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEEvDu49fw1PMqbm+X/5wmzE41LeztQY="
     },
     {
         "id": "587",
@@ -59,14 +59,14 @@
         "id": "605",
         "name": "National Geographic HD",
         "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/eziptv.mpd",
-        "hex": "7579ef4f45a55ffc87703d4c7e1a7b04:fe0185afb765a8ebbe7fead6e81fafb9",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHV5709FpV/8h3A9TH4aewQ49KSztQY="
+        "hex": "59dbbcaca4295372a581587d7d438e70:5cc2ae8440c152afb1f827f1ef641063",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFnbvKykKVNypYFYfX1DjnA4/LKztQY="
     },
     {
         "id": "616",
         "name": "History TV18 HD",
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/eziptv.mpd",
-        "hex": "cbecad14402454dea3d0a8178f6a59f7:fec32d4de3f5f836128c7c1de29ba639",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEMvsrRRAJFTeo9CoF49qWfc4yKKztQY="
+        "hex": "ec8e8932e1bc5363bfd1077b2aebdc64:00888cef18979cc4949260db98c32d9b",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEOyOiTLhvFNjv9EHeyrr3GQ40LCztQY="
     }
 ]
