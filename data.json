@@ -3,70 +3,70 @@
         "id": "8",
         "name": "STAR Plus HD",
         "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/eziptv.mpd",
-        "hex": "f19959de7abd5822a76399e3a496847a:7c522b342965f43d22ea3ac32934056e",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEPGZWd56vVgip2OZ46SWhHo47Ni2tQY="
+        "hex": "becea503ad0755658e2b9fb439f99232:9fdbd647fb3a08e454e943bccad6c33c",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEL7OpQOtB1VljiuftDn5kjI49Oa2tQY="
     },
     {
         "id": "40",
         "name": "&tv HD",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/eziptv.mpd",
-        "hex": "2c5638ed7b075d7985278434ade5f356:b90b3818d368e1fcb8694697adfc8bee",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECxWOO17B115hSeENK3l81Y46NG2tQY="
+        "hex": "a68d6e88b9ae5f42b811facf5dc1fb9f:705bd46a97db74c8f1b922d3f319d7cc",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKaNboi5rl9CuBH6z13B+5848N+2tQY="
     },
     {
         "id": "63",
         "name": "Zee TV HD",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/eziptv.mpd",
-        "hex": "2fdedc511bbb51c2b0d0d33be4bde0f0:70841b8c37c667f70ae2b6eb0ebf3753",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEC/e3FEbu1HCsNDTO+S94PA4mNu2tQY="
+        "hex": "aac812f50e675425a88e4a2d032d251f:a476008bf0a7f0a33e0bb1c84dc0e1da",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKrIEvUOZ1QlqI5KLQMtJR84oOm2tQY="
     },
     {
         "id": "245",
         "name": "STAR GOLD HD",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/eziptv.mpd",
-        "hex": "d3e6cafcda12579081b9ddb1ca667e8c:1d6c0cc5b89070fb8e5be5c1ac520363",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENPmyvzaEleQgbndscpmfow40Ke2tQY="
+        "hex": "56b60916b2f15889a76b2599fd2d07f0:93b2c7873632e83d5b2ca6371d9aedb9",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFa2CRay8ViJp2slmf0tB/A48N+2tQY="
     },
     {
         "id": "503",
         "name": "Zee Cinema HD",
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/eziptv.mpd",
-        "hex": "d63d0abbbcd155688b4d27088b8e7eed:b34afd7fd950702efb84dc34a8a2420d",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENY9Cru80VVoi00nCIuOfu04wNa2tQY="
+        "hex": "8f463c1b2596512cabeb9516e35927f6:01483c3ec69446b73ce3949ee98b8998",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEI9GPBslllEsq+uVFuNZJ/Y4yOS2tQY="
     },
     {
         "id": "267",
         "name": "&pictures HD",
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/eziptv.mpd",
-        "hex": "d35e65cb6a735ab989bb2d4554f71f0e:e98b80533208c48ed87f65311dcf2694",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENNeZctqc1q5ibstRVT3Hw44wNa2tQY="
+        "hex": "6207da65a809589a9297b93a08111866:942bf6b9c0dcf8cfd1d40ebd791b2021",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEGIH2mWoCViakpe5OggRGGY4yOS2tQY="
     },
     {
         "id": "24",
         "name": "Star Sports 1 Hindi HD",
         "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/eziptv.mpd",
-        "hex": "13a1e16d3bcf54799d62c963637e99a6:f91f225ca35c62a6c96dfe549436435d",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEBOh4W07z1R5nWLJY2N+maY4xN22tQY="
+        "hex": "a8c6f31c5eef5398a465574209a90036:7791a690f8292eae90f638b9b3097d7f",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKjG8xxe71OYpGVXQgmpADY4zOu2tQY="
     },
     {
         "id": "587",
         "name": "Super Hungama",
         "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/eziptv.mpd",
-        "hex": "748a6a6534825559bd76ceb0561500e3:d5da70929d858d7037ab51728cdbc5dd",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHSKamU0glVZvXbOsFYVAOM41K62tQY="
+        "hex": "94829a1ffc605b879954b27a4ac43dda:5fb952fab516aef5df6dac0ba093b70f",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJSCmh/8YFuHmVSyekrEPdo49Oa2tQY="
     },
     {
         "id": "605",
         "name": "National Geographic HD",
         "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/eziptv.mpd",
-        "hex": "b3aff4bda88c5076acd67f2018c62346:76f5c9d734966099014f74f6fed819f9",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELOv9L2ojFB2rNZ/IBjGI0Y47Ni2tQY="
+        "hex": "dc8dd24b5c2354e49a3401f78555c2b9:b680ce8513628692e4c436945545bdaa",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSENyN0ktcI1TkmjQB94VVwrk49Oa2tQY="
     },
     {
         "id": "616",
         "name": "History TV18 HD",
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/eziptv.mpd",
-        "hex": "ae0cc524005a50edac1a9a26ae98e329:63cce1d22ae98d109b2d613435f10ca0",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEK4MxSQAWlDtrBqaJq6Y4yk4wNa2tQY="
+        "hex": "65f33b88e3e057c49202591c281a9072:554ef7dfb10b17db99c6277a111f74ee",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEGXzO4jj4FfEkgJZHCgakHI4yOS2tQY="
     }
 ]
