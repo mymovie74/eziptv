@@ -3,8 +3,8 @@
         "id": "8",
         "name": "STAR Plus HD",
         "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/eziptv.mpd",
-        "hex": "a38894a6b36d5239a25cf9c034e6a06b:b39c028092e50a21a2ea0f4cd5f76685",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEKOIlKazbVI5olz5wDTmoGs4jJG3tQY="
+        "hex": "740c7279e7425ce0b369f173f25808f4:59ae4a02313418d23904835bd66f4fbc",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHQMcnnnQlzgs2nxc/JYCPQ4lJ+3tQY="
     },
     {
         "id": "40",
@@ -17,29 +17,29 @@
         "id": "63",
         "name": "Zee TV HD",
         "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/eziptv.mpd",
-        "hex": "933fcf16cbc056308fc0aa5f51e6ffd6:03fa9c675286f5f6261a5dbb46720db2",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJM/zxbLwFYwj8CqX1Hm/9Y4uJO3tQY="
+        "hex": "fbf98527abc15c5fa5df53cb1938eaa4:776f2e1ecde825dd55e07501c27130e7",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEPv5hSerwVxfpd9Tyxk46qQ4wKG3tQY="
     },
     {
         "id": "245",
         "name": "STAR GOLD HD",
         "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/eziptv.mpd",
-        "hex": "56b60916b2f15889a76b2599fd2d07f0:93b2c7873632e83d5b2ca6371d9aedb9",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFa2CRay8ViJp2slmf0tB/A48N+2tQY="
+        "hex": "480c2e3b69945458aa8db47b9519ee1f:6fb7db3a9e599035b6ff40f8645f2a27",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEEgMLjtplFRYqo20e5UZ7h84kJi3tQY="
     },
     {
         "id": "503",
         "name": "Zee Cinema HD",
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/eziptv.mpd",
-        "hex": "7ece7a9a2594565bbed95e43fe4de222:f157acf94450631a027f8caec0b914f9",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEH7OepollFZbvtleQ/5N4iI44I63tQY="
+        "hex": "b34220eeb08b53a2ae2232fd782c9c8d:1c974a3a924603755059e5af6a15a7c7",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELNCIO6wi1OiriIy/XgsnI046Jy3tQY="
     },
     {
         "id": "267",
         "name": "&pictures HD",
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/eziptv.mpd",
-        "hex": "7ba689fece59546c97922216969809ae:f748490016a4499d0528d30f4e788e92",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEHumif7OWVRsl5IiFpaYCa444I63tQY="
+        "hex": "4a582591b173575790962800994bf969:dce2b48fb68cc994e109b4a1271512cd",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEEpYJZGxc1dXkJYoAJlL+Wk46Jy3tQY="
     },
     {
         "id": "24",
@@ -52,21 +52,21 @@
         "id": "587",
         "name": "Super Hungama",
         "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/eziptv.mpd",
-        "hex": "94829a1ffc605b879954b27a4ac43dda:5fb952fab516aef5df6dac0ba093b70f",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJSCmh/8YFuHmVSyekrEPdo49Oa2tQY="
+        "hex": "8fdc9affcd9c566783e3d84313fd34f0:c4735e6a27db086baaabd3445e7d937b",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEI/cmv/NnFZng+PYQxP9NPA4lJ+3tQY="
     },
     {
         "id": "605",
         "name": "National Geographic HD",
         "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/eziptv.mpd",
-        "hex": "b55b569fddd25c9d9e9c127c1d162db5:804ba4bdf8e4819c76cc08afab59112c",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELVbVp/d0lydnpwSfB0WLbU4jJG3tQY="
+        "hex": "664adea8f48a52ebaf2c6fc24efdc940:718da36e5a0ad4a0759df216566d1154",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEGZK3qj0ilLrryxvwk79yUA4lJ+3tQY="
     },
     {
         "id": "616",
         "name": "History TV18 HD",
         "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/eziptv.mpd",
-        "hex": "b83c342680935edc97d716522993586a:4d906a8e1524bbf8970eeaa8001b2d30",
-        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSELg8NCaAk17cl9cWUimTWGo44I63tQY="
+        "hex": "2802ec3b7a84508b88f32cad2a3b37af:efffe992a21d2932d0f81d69e9add8ae",
+        "pssh": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSECgC7Dt6hFCLiPMsrSo7N6846Jy3tQY="
     }
 ]
