@@ -3,12 +3,5 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:21457
 #EXT-X-ALLOW-CACHE:YES
-#EXT-X-PROGRAM-DATE-TIME:2023-06-07T03:56:28Z
 #EXTINF:7.920,
-http://tv.cloudcdn.me/live.ts?channelId=33165&uid=7339&deviceMac=00:1A:79:B1:85:69
-#EXTINF:8.000,
-http://tv.cloudcdn.me/live.ts?channelId=33165&uid=7339&deviceMac=00:1A:79:B1:85:69
-#EXTINF:8.000,
-http://tv.cloudcdn.me/live.ts?channelId=33165&uid=7339&deviceMac=00:1A:79:B1:85:69
-#EXTINF:8.000,
-http://tv.cloudcdn.me/live.ts?channelId=33165&uid=7339&deviceMac=00:1A:79:B1:85:69
+http://103.212.89.154:8000/play/a07f
