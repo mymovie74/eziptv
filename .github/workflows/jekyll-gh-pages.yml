@@ -1,11 +1,11 @@
 name: Deploy Github Pages
 
 on:
-  push:
-    branches:
-      - "**"  # This matches all branches
-    paths:
-      - "aio.xml.gz"  # This matches the specific file
+  # push:
+  #   branches:
+  #     - "**"  
+  #   paths:
+  #     - "aio.xml.gz"  
   workflow_dispatch:
 
 permissions:
